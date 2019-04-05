@@ -1,3 +1,3 @@
-# Tutorial based on article:
+# Based on the article:
 
 https://www.robinwieruch.de/react-hooks-fetch-data/
